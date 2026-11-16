@@ -1,0 +1,36 @@
+GTA 6 SHORTS – LOG
+==================
+Nächste Nummer: siehe unten
+Benennung: <Nr>_GTA6_Short_<Thema>_Paket.zip  (z. B. 6_GTA6_Short_Day-One-Patch_Paket.zip)
+
+Nr | Datum erstellt | Thema               | Vorlage            | Stimme      | Palette | Hook-Typ     | Länge | geplanter Upload
+1  | 15.11.2026     | Release-Checkliste  | A Synthwave-News   | KI (Timon)  | Vice    | Warnung      | 35 s  | Di 17.11.
+2  | 15.11.2026     | Release-Zeiten      | A Synthwave-News   | KI (Timon)  | Vice    | Behauptung   | 36 s  | Mi 18.11. vormittags
+3  | 15.11.2026     | 5 Trailer-Details   | A Synthwave-News   | KI (Timon)  | Vice    | Zahl         | 35 s  | Mo 16.11.
+4  | 15.11.2026     | 6 Sachen (Netflix)  | A Synthwave-News   | KI (Timon)  | Vice    | Zahl         | 27 s  | Do 19.11. (Release)
+5  | 15.11.2026     | 30-FPS-Drama        | A Synthwave-News   | KI (Timon)  | Vice    | Kontroverse  | 40 s  | Mo 16.11. (heißes Thema)
+5b | 15.11.2026     | 30-FPS-Drama (Bild-Version) | A + KI-Bilder (Miami) | KI (Timon) | Vice | Kontroverse | 40 s  | statt Nr. 5 verwenden
+
+Hinweis: Nr. 1–5 nutzen alle Vorlage A, Stimme Timon und Palette Vice.
+Ab Nr. 6 bewusst wechseln (andere Vorlage, Stimme oder eigene Stimme/Facecam, andere Palette).
+
+INSTAGRAM (@gtavi_germany) – veröffentlicht 15.11.2026 ca. 13:45
+- Nr. 5b 30-FPS-Drama (Bild-Version)  – Media-ID 18077794787751891
+- Nr. 3  5 Trailer-Details            – Media-ID 18032484164692508
+- Nr. 2  Release-Zeiten               – Media-ID 17891985873620234
+- Nr. 1  Release-Checkliste           – Media-ID 17923796298452126
+- Nr. 4  6 Sachen (Netflix)           – von Malte selbst hochgeladen
+YouTube: alle Shorts (1–5) von Malte am 15.11.2026 hochgeladen.
+Plan ab 16.11.: täglich 1–2 Posts.
+
+--- Ab hier Kanal „Gaming Facts und News“ (Format: Nr | Datum | Thema | Vorlage | Stimme) ---
+6 | 15.11.2026 | 13 Jahre Warten (witzig) | Meme-Captions + Stempel | KI-Stimme (Datei von Malte)
+7 | 15.11.2026 | PS5/PS5-Pro-Preise wegen GTA VI | Kassenbon | Jonas
+8 | 15.11.2026 | GTA VI Standard vs. Ultimate Edition | Split-Screen VS | Timon
+9 | 15.11.2026 | GTA VI & Urlaubsanträge | Kalender/Formular | Laura
+10 | 15.11.2026 | Was 2013 noch passierte (GTA V Release) | Zeitreise/Camcorder | Philip
+11 | 15.11.2026 | Was man mit 100 € statt GTA VI kaufen kann (Meme, v3) | Meme-Post | Jones
+12 | 16.11.2026 | GTA VI PC-Version & PS5-Emulator | Terminal/HUD | Timon
+13 | 16.11.2026 | GTA VI vs. deutsches Internet (Preload-Rekorde) | Speedtest | Laura
+14 | 16.11.2026 | GTA VI Wertungs-Countdown (Embargo 18.11., GTA IV 98 / GTA V 97) | Scoreboard | Jonas | gepostet ja, media 18106716518017858
+Nächste Nummer: 15
