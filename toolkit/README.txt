@@ -13,3 +13,7 @@ COVER/THUMBNAIL (seit 17.11.2026 Pflicht):
 - Video NICHT aus Schwarz einblenden – schon Frame 0 muss das volle Hook-Bild zeigen (Instagram nimmt sonst ein schwarzes Profil-Thumbnail).
 - Zusätzlich <Dateiname ohne .mp4>_Cover.jpg (1080x1920, Hook-Frame mit vollständig eingeblendetem Text) nach videos/ committen
   und beim Posten als cover_url (jsDelivr-Link mit Commit-Hash) an create_video_post übergeben.
+
+KI-KENNZEICHNUNG (seit 17.11.2026 Pflicht, Maltes Wunsch):
+- Im ganzen Video und auf dem Cover dezent "KI-generiert" einblenden (kleines Badge, 30–36 px, nicht unter Instagram-Bedienelementen).
+- In der Caption eigene Zeile: "🤖 Mit KI erstellt (Stimme & Bilder)".
