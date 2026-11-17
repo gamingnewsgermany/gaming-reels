@@ -17,3 +17,10 @@ COVER/THUMBNAIL (seit 17.11.2026 Pflicht):
 KI-KENNZEICHNUNG (seit 17.11.2026 Pflicht, Maltes Wunsch):
 - Im ganzen Video und auf dem Cover dezent "KI-generiert" einblenden (kleines Badge, 30–36 px, nicht unter Instagram-Bedienelementen).
 - In der Caption eigene Zeile: "🤖 Mit KI erstellt (Stimme & Bilder)".
+
+EINHEITLICHES COVER: toolkit/vorlagen/cover.py <bild> "ZEILE 1" "ZEILE 2" <out.jpg> [akzent_hex]
+- Immer dieses Layout (weiße Zeile + Akzentzeile, Inter Black, links, Mitte des Bildes, "GAMING FACTS & NEWS" + "KI-generiert").
+- Max. 2 Zeilen à ca. 14 Zeichen. Akzentfarbe darf je Reel wechseln, Layout nie.
+
+HOOK-REGEL: Die ersten 2 Sekunden brauchen Reibung – steile These, schockierende Zahl oder Ja/Nein-Frage
+(Vorbild: 30-FPS-Reel, 78k Aufrufe, 33 % Skip). Reine Info-Hooks ("X ist erschienen") vermeiden.
