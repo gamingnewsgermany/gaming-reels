@@ -24,3 +24,8 @@ EINHEITLICHES COVER: toolkit/vorlagen/cover.py <bild> "ZEILE 1" "ZEILE 2" <out.j
 
 HOOK-REGEL: Die ersten 2 Sekunden brauchen Reibung – steile These, schockierende Zahl oder Ja/Nein-Frage
 (Vorbild: 30-FPS-Reel, 78k Aufrufe, 33 % Skip). Reine Info-Hooks ("X ist erschienen") vermeiden.
+
+JSDELIVR-LIMIT (seit 19.11.2026): Das Repo ist > 50 MB, jsDelivr liefert MP4s von main daher mit 403
+("Package size exceeded"). Lösung: Video + Cover zusätzlich in einen eigenen Orphan-Branch post-<Nr> pushen
+(nur diese 2 Dateien), dessen Commit-Hash für video_url/cover_url nutzen. Vorher mit
+curl -s -o /dev/null -w "%{http_code}" <url> prüfen (curl -I zeigt hinter dem Proxy immer 200).
